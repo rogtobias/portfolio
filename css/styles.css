@@ -4,6 +4,11 @@
   padding-top: 40px;
   font-weight: bolder;
   font-family: fantasy;
+  text-shadow: 2px 4px 6px green;
+}
+
+#JumboImage {
+  border-radius: 50%;
 }
 
 #TitleFormatLeft {
@@ -14,6 +19,7 @@
   text-align: center;
   margin: auto;
   font-family: fantasy;
+  text-shadow: 2px 4px 6px green;
 }
 
 #TitleFormatRight {
@@ -24,6 +30,7 @@
   text-align: center;
   margin: auto;
   font-family: fantasy;
+  text-shadow: 2px 4px 6px green;
 }
 
 #QuoteMove {
@@ -37,6 +44,7 @@
   color: green;
   font-size: 25px;
   font-family: fantasy;
+  text-shadow: 1px 2px 3px yellow;
 }
 
 .panel-body {
@@ -51,6 +59,6 @@
   display: block;
 }
 
-.ProjectLinks {
+.bg-success {
   text-align: center;
 }
