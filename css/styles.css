@@ -6,31 +6,51 @@
   font-family: fantasy;
 }
 
-#TitleFormat {
-  text-align: center;
+#TitleFormatLeft {
+  text-align: left;
   font-weight: bolder;
-  padding-top: 50px;
+  padding-top: 175px;
   font-size: 30px;
   text-align: center;
   margin: auto;
+  font-family: fantasy;
+}
+
+#TitleFormatRight {
+  text-align: right;
+  font-weight: bolder;
+  padding-top: 175px;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  font-family: fantasy;
 }
 
 #QuoteMove {
   color: green;
   padding: 30px;
   text-align: center;
+  font-family: fantasy;
 }
 
 .panel-title {
   color: green;
+  font-size: 25px;
+  font-family: fantasy;
 }
 
 .panel-body {
   text-align: justify;
+  font-family: fantasy;
 }
 
-CodingProjectImage {
+.CodingProjectImage {
+  width: 250;
+  height: 100%;
+  vertical-align: middle;
+  display: block;
+}
+
+.ProjectLinks {
   text-align: center;
-  width: 70%;
-  margin: auto;
 }
