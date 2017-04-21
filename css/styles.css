@@ -17,19 +17,16 @@
 
 #QuoteMove {
   color: green;
-  padding: 50px;
+  padding: 30px;
+  text-align: center;
 }
 
-.panel-AboutMeTitle {
+.panel-title {
   color: green;
 }
 
-.panel-BackgroundTitle {
-  color: green;
-}
-
-.panel-HobbySkillsTitle {
-  color: green;
+.panel-body {
+  text-align: justify;
 }
 
 CodingProjectImage {
