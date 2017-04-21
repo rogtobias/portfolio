@@ -5,6 +5,15 @@
   font-weight: bolder;
 }
 
+#TitleFormat {
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 50px;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+}
+
 .panel-AboutMeTitle {
   color: green;
 }
@@ -15,4 +24,10 @@
 
 .panel-HobbySkillsTitle {
   color: green;
+}
+
+CodingProjectImage {
+  text-align: center;
+  width: 70%;
+  margin: auto;
 }
